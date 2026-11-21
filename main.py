@@ -11,7 +11,7 @@ POEM = (
     "All my life I kept the asking folded,\n"
     "a note I never sent, afraid the yes\n"
     "would cost me something, the no prove\n"
-    "I was worth less than the wanting.\n"
+    "I was less than the wanting.\n"
     "\n"
     "Then you answered, soft and plain:\n"
     "the door was never a debt.\n"
